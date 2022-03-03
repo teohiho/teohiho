@@ -1,16 +1,37 @@
-### Hi there 👋
+## Hi, My nickname is Teo 👋
 
-<!--
-**teohiho/teohiho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+- 🔭 I’m currently working on company's remote computer
+- 🌱 I’m currently learning ASP.NET, Javascript, Microsoft Azure,..
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="teohiho | email" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/gmail.png" />](mailto:teohiho@gmail.com)
+
+<br />
+
+### GitHub Readme Stats:
+<details open> 
+ <summary>⚡ <b>Teo's GitHub stats</b>: </summary>
+<p>
+ 
+![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=teohiho&show_icons=true&theme=dracula) 
+
+</p>
+</details>
+<br>
+<details open> 
+ <summary> ⚡ <b>Teo's Top Langs</b>: </summary>
+<p>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teohiho&layout=compact&theme=dracula)](https://github.com/teohiho?tab=repositories)
+
+ </p>
+</details>
+<br>
+
+[![Image of https://github.com/teohiho/my-profile-views-counter](https://github.com/teohiho/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/teohiho/my-profile-views-counter)
+
+
+
+
