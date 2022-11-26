@@ -1,8 +1,8 @@
 ## Hi, My nickname is Teo 👋
 
 ### About me:
-- 🔭 I’m currently working on company's remote computer
-- 🌱 I’m currently learning ASP.NET, Javascript, Microsoft Azure,..
+- 🔭 I’m currently working at a IT company in Japan
+- 🌱 I’m currently learning ASP.NET, VueJS, Javascript,..
 
 ### Connect with me:
 
